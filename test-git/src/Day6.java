@@ -8,6 +8,8 @@ public class Day6 {
 //    d) None of the mentioned
 //
 //
+
+
 //
 //    2. What is the range of byte data type in Java?
 //    a) -128 to 127                 //Answer is A
