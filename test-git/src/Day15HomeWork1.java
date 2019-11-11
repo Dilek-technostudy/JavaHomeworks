@@ -1,4 +1,4 @@
-public class Day15HomeWork2 {
+public class Day15HomeWork1 {
     //Task
     // 1. Return the number of even ints in the given array.
     // {1,2,3,4,5,6} => 3
