@@ -7,7 +7,7 @@ import java.util.Scanner;
 //    Number of words in the string: 9
 //advanced, put in a new class and call the method from the main method
 
-public class Nov7 {
+public class Day21 {
     public static void main(String[] args) {
 
 
