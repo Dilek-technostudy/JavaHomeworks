@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaHomeworks.iml" filepath="$PROJECT_DIR$/JavaHomeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../selenium2/libs/libs.iml" filepath="$PROJECT_DIR$/../../../selenium2/libs/libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-git/test-git.iml" filepath="$PROJECT_DIR$/test-git/test-git.iml" />
     </modules>
   </component>
