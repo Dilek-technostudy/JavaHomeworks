@@ -1,0 +1,11 @@
+package aaOcaDeneme1;
+
+public class Q14 {
+    public static void main(String[] args) {
+        System.out.println("result A"+0 +1);
+        System.out.println("result B"+(1)+(2));
+        //question16
+        System.out.println("5+2="+3+4);
+        System.out.println("5+2= "+(3+4));
+    }
+}
