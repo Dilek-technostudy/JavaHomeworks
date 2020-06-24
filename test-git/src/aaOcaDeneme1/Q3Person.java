@@ -8,33 +8,24 @@ public class Q3Person {
 
     }
 
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public Q3Person(String name){
         this();
         setName(name);
     }
 
-    public int getAge() {
-        return age;
+    public Q3Person(String name, int age){
+      this (name);     //Q3Person (name) burada hata veriyor.This deyince kaldiriyor.
+        setAge(age);
+    }
+//    setter and getter methods
+     public void setName(String name) {
+        this.name = name;
     }
 
     public void setAge(int age) {
         this.age = age;
     }
 
-    public Q3Person(String name, int age){
-        this (name);     //Q3Person (name) burada hata veriyor.This deyince kaldiriyor.
-        setAge(age);
-    }
-//    setter and getter methods
     public String show(){
         return name +age + "";
     }

@@ -22,6 +22,7 @@ public class Q1 extends DerivedA {
         Base b3 = new Q1();
         b1= (Base)b3;
         Base b4 =(DerivedA)b3;
+       // b1= (Base)b2;
         b1.test();
 //        b2.test();
 //        b3.test();

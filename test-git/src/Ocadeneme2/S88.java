@@ -1,4 +1,4 @@
-package Sorular51;
+package Ocadeneme2;
 class Alpha{
 	int ns;
 	static int s;

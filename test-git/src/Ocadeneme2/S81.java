@@ -1,4 +1,4 @@
-package Sorular51;
+package Ocadeneme2;
 
 public class S81 {
 

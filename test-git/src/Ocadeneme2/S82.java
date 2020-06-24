@@ -1,3 +1,5 @@
+package Ocadeneme2;
+
 public class S82 {
 	String name;
 	Boolean contract;

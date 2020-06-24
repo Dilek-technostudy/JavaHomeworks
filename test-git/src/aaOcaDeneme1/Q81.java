@@ -6,12 +6,12 @@ public class Q81 {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]+" ");
             if(arr[i].equals("C")){
-               continue;
-              //  break;
+              // continue;
+               break;
             }
             System.out.println("Work Done");
-            break;
-            //continue;
+           //break;
+           continue;
         }
     }
 }

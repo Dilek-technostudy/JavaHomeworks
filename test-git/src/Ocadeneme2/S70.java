@@ -1,17 +1,19 @@
-class Vehicle{
+package Ocadeneme2;
+
+class Vehicle1{
 	int x;
-	Vehicle(){
+	Vehicle1(){
 		this(10);
 	}
-	Vehicle(int x){
+	Vehicle1(int x){
 		this.x=x;
 	}
 }
-class Car extends Vehicle {
+class Car extends Vehicle1 {
 	int y;
 	Car(){
-		super();
-		//this(20);
+		//super();
+		this(20);
 	}
 	Car(int y){
 		this.y=y;
@@ -23,7 +25,7 @@ class Car extends Vehicle {
 public class S70 {
 
 	public static void main(String[] args) {
-		Vehicle y= new Car();
+		Vehicle1 y= new Car();
 		System.out.println(y);
 
 	}

@@ -1,3 +1,5 @@
+package Ocadeneme2;
+
 public class S72 {
  static int count; //soruda static olmadigi icin count olan satirlar hata veriyor
 public static void displayMsg(){
