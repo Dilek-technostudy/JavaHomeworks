@@ -13,7 +13,7 @@ public class Q47 extends N2{
     public static void main(String[] args) {
          N1 obj1 = (N1) new N2();
        N2 obj2 = (N2) new Q47();
-      // N2 obj3 = (N2) new N1();
+     // N2 obj3 = (N2) new N1();
         Q47 obj4 = (Q47) obj2;
     }
 }

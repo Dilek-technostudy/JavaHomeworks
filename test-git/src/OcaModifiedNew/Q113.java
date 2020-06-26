@@ -7,7 +7,7 @@ public class Q113 {
     public  void  sell(int qty) {stock -=qty;}
     public  void printStock(String action){
 
-     //   System.out.println(action +": "+ qty+"items.stock in hand :"+stock);
+     // System.out.println(action +": "+ qty+"items.stock in hand :"+stock);
 
     }
 

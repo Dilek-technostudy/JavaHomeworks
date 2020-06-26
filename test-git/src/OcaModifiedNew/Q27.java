@@ -2,7 +2,8 @@ package OcaModifiedNew;
 class CheckingAccount1 {
     public int amount;
     public CheckingAccount1(){
-        this.amount=100;
+        amount=100;
+        //this.amount=100;
     }
 }
     public class Q27 {
@@ -10,8 +11,8 @@ class CheckingAccount1 {
 
         CheckingAccount1 acct = new CheckingAccount1();
 
-          //  acct.amount=100;
-           // System.out.println(acct.amount);
+            acct.amount=100;
+            System.out.println(acct.amount);
 
     }
 }

@@ -7,7 +7,7 @@ public class Q193 {
             sum = sum + xval;
         }
 
-          //  System.out.println("the sum of" + xval + "number is "+ sum);
+          //System.out.println("the sum of" + xval + "number is "+ sum);
 
         }
     }

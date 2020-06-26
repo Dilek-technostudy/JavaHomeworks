@@ -12,7 +12,7 @@ class Peacock extends Bird{
         System.out.println("Dance ");
     }
 }
-class Q177 {
+ public class Q177 {
     public static void main(String[] args) {
 
         Bird b= new Peacock();

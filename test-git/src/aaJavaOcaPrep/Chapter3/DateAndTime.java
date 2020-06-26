@@ -9,16 +9,16 @@ import java.time.format.DateTimeFormatter;
 public class DateAndTime {
     public static void main(String[] args) {
 
-  String date=LocalDate.parse("2014-05-04").format(DateTimeFormatter.ISO_DATE_TIME);
-        System.out.println(date);
+//  String date=LocalDate.parse("2014-05-04").format(DateTimeFormatter.ISO_DATE_TIME);
+//        System.out.println(date);
+//
 
 
 
-
-//        LocalDateTime  dt = LocalDateTime.of(2014, 7, 31, 1, 1);
-//        dt.plusDays(30);
-//        dt.plusMonths(1);
-//        System.out.println(dt.format(DateTimeFormatter.ISO_DATE));
+        LocalDateTime  dt = LocalDateTime.of(2014, 7, 31, 1, 1);
+        dt.plusDays(30);
+        dt.plusMonths(1);
+        System.out.println(dt.format(DateTimeFormatter.ISO_DATE));
 
 //    LocalDate date1 = LocalDate.now();
 //    LocalDate date2 = LocalDate.of(2014,6,20);

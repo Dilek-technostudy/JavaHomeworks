@@ -4,7 +4,7 @@ class E2 extends RuntimeException{}
 public class Q190 {
     public void m1(){
         System.out.println("m1.Accessed");
-       // throw new E1();
+        //throw new E1();
     }
     public void m2(){
         System.out.println("m2.Accessed");
